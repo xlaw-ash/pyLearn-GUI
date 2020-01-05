@@ -1,6 +1,9 @@
 # pyLearn-GUI
 Learn to make GUI applications using Python
 
+## Intro
+I am learning PyQt5 to create various GUI applications using Python in Windows 10. I use Visual Studio Code as my Text Editor for programming and development. This repo contains "Hello World" type GUI applications.
+
 ## Initialize
 To start developing applications in Python, following steps are required.  
 * **Python** must be installed. To install Python, visit [Python's Official Website][python]. This project is developed in Python 3.8.1. Make sure path of Python is added to environment variables.
