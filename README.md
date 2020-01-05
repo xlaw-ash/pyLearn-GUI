@@ -19,11 +19,12 @@ To start developing applications in Python, following steps are required.
     * To deactivate virtual environment, execute following command.  
         ![Execute command deactivate](/docs/images/deactivate_env.png)  
     **Note:** Make sure virtual environment is active while installing packages and running python programs particular to this project.  
-* Install [PyQt5][pyqt5]. To install the latest version, execute the following command on powershell/command prompt/terminal:  
+* Install [PyQt5][pyqt5]. Apps are created using PyQt5 v5.14.0. To install the latest version, execute the following command on powershell/command prompt/terminal:  
     ```powershell
     pip install PyQt5
     ```  
-
+## Contents
+1. [**Hello World** - My First GUI App](/hello_world)
 
 
 [python]: https://www.python.org/
