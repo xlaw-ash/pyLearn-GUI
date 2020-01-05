@@ -1,0 +1,8 @@
+# Ignore all log files.
+log/
+
+#Ignore .vscode files
+.vscode/
+
+#Ignore virtual environment files
+pygui-env/
